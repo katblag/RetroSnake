@@ -1,0 +1,19 @@
+div {
+	width: 352px;
+	height: 20px;
+}
+
+span {
+	width: 20px;
+	height: 20px;
+	float: left;
+	background-color: pink;
+}
+
+.snake {
+	background-color: green;
+}
+
+.apple {
+	background-color: red;
+}
