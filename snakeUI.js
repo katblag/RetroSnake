@@ -94,7 +94,7 @@ var timeString = function (time1, time2) {
 		}
 	}
 	
-	return  "\nTime: " + minString() + ":" + secsString();
+	return  "Time: " + minString() + ":" + secsString();
 }
 
 board = new Board();
